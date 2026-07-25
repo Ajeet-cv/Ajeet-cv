@@ -5,7 +5,7 @@
 # 👨‍💻 About Me
 
 ```javascript
-const akshat = {
+const Ajeet chaurasiya = {
     role: "MERN Stack Developer",
     location: "India 🇮🇳",
 
@@ -18,17 +18,13 @@ const akshat = {
     ],
 
     technologies: [
-        "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB"
+        "React"
     ],
 
     tools: [
         "Git",
         "GitHub",
-        "VS Code",
-        "Postman"
+        "VS Code"
     ],
 
     currentFocus: "DSA + Full Stack Development",
@@ -41,10 +37,10 @@ const akshat = {
 
 # 🚀 Quick Highlights
 
--  Currently learning **Advanced MERN Stack Development**
+-  Currently learning **MERN Stack Development**
 -  Solving **DSA Problems Daily**
 -  Building **Full Stack Web Applications**
--  Interested in **Backend Development & Problem Solving**
+-  Interested in **Problem Solving**
 -  Goal: **Crack top product-based companies**
 
 ---
@@ -60,13 +56,13 @@ const akshat = {
 ### ⚙️ Frameworks & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -100,44 +96,23 @@ const akshat = {
 # 🧠 LeetCode Statistics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akshatrastogi14?theme=dark&font=Nunito&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/ladliradhekrishna?theme=dark&font=Nunito&ext=contest" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
 
-## 📌 Stream
-> A Movie Streaming Web Application
-
-🔗 https://github.com/Akshat-1407/Stream
-
----
-
-## 📌 EchoChat
-> A Real Time Web Chatting Application
-
-🔗 https://github.com/Akshat-1407/EchoChat
-
----
-
-## 📌 AirBnb Clone
-> A Travelling and Listing Site
-
-🔗 https://github.com/Akshat-1407/Abode
-
----
 
 # 💻 Coding Profiles
 
 <p align="center">
 
-<a href="https://leetcode.com/u/akshatrastogi14/">
-  <img src="https://img.shields.io/badge/LeetCode-akshatrastogi14-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/ladliradhekrishna/">
+  <img src="https://img.shields.io/badge/LeetCode-ladliradhekrishna-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://www.codechef.com/users/akshat_cs_1407">
-  <img src="https://img.shields.io/badge/CodeChef-akshat__cs__1407-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<a href="https://www.codechef.com/users/ajeet87">
+  <img src="https://img.shields.io/badge/CodeChef-ajeet87-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/akshatraslar7/">
