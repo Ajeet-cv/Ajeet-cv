@@ -87,7 +87,7 @@ const Ajeet chaurasiya = {
 
 <div align="center">
 
-![Snake animation](https://github.com/Ajeet-cv/Ajeet-cv/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Ajeet-cv/Ajeet-cv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -141,10 +141,6 @@ const Ajeet chaurasiya = {
 
 <a href="https://github.com/Ajeet-cv">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-gray-three-54.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
